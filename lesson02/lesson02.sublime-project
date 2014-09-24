@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "E:\\Lua_workspace"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\cocos2d\\quick-cocos2d-x-2.2.5"
+		}
+	]
+}

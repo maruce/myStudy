@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"set",
+				"setName"
+			],
+			[
+				"My",
+				"MyNewObject"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"M",
+				"MyNewObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/main.lua",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/game.lua",
+			"settings":
+			{
+				"buffer_size": 2637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/scenes/MainScene.lua",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/framework/display.lua",
+			"settings":
+			{
+				"buffer_size": 34348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/lib/luabinding/cocos2dx/platform/CCFileUtils.tolua",
+			"settings":
+			{
+				"buffer_size": 10312,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/cocos2d/quick-cocos2d-x-2.2.5",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/player/welcome",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/player/welcome/scripts",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/player/welcome/scripts/app",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/player/win",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/samples",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/scenes",
+		"/D/cocos2d/quick-cocos2d-x-2.2.5/template"
+	],
+	"file_history":
+	[
+		"/E/Lua_workspace/lesson01/lesson01.lua",
+		"/E/Lua_workspace/lesson02/lesson02.lua",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/QuickXDev.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/QuickXDev/QuickXDev.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/game.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/samples/tests/scripts/scenes/MainScene.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/framework/display.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11561,
+								11575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4801.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/cocos2d/quick-cocos2d-x-2.2.5/lib/luabinding/cocos2dx/platform/CCFileUtils.tolua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1352,
+								1352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lesson02.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
